@@ -46,7 +46,7 @@ border: 0.4rem solid var(--color-primary-variant);
     width: 70%;
 }
 .client__review{
-    width: var(--container-width-ms);
+    width: var(--container-width-sm);
 
 }
 

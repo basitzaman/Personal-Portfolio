@@ -61,7 +61,9 @@
     text-align: justify;
 }
 
-
+#about{
+    margin-top:10rem;
+}
 
 @media screen and (max-width: 1023px){
     .about__container{

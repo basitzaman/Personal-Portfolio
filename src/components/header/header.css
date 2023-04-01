@@ -2,6 +2,7 @@ header{
     height:110vh;
     padding-top: 7rem;
     /* overflow: hidden; */
+
 }
 .header__container{
     text-align: center;
@@ -44,6 +45,7 @@ header{
     left: 50%;
     left: calc(50% - 11rem);
     margin-top:4rem ;
+    overflow: hidden;
     border-radius: 12rem 12rem 0 0;
     padding: 2.5rem 1.5rem 1.5rem;
 }
@@ -66,8 +68,9 @@ header{
 
 @media screen and (max-width:600px){
     header{
-        height:100vh;
- 
+        height:90vh;
+        /* overflow: hidden;
+  */
      }
      .Header__Socials, .scroll__down{
         display: none;
